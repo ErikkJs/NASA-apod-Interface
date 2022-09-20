@@ -25,7 +25,7 @@ This workshop will teach you the basic building blocks to most Software Engineer
 
   
 
-##### Students must clone the repo
+##### Students must clone or fork the repo
 
 [https://github.com/ErikkJs/NASA-apod-Interface](https://github.com/ErikkJs/NASA-apod-Interface)
 
